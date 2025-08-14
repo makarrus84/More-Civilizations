@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Sissi",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"uniqueTo": "Finland",
+		"replaces": "Rifleman",
 		"movement": 2,
 		"strength": 90,
 		"rangedStrength": 36,
 		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"cost": 150,
+		"requiredTech": "Rifling",
+		"uniques": "Unbuidable",
 		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"attackSound": "shot.mp3"
 	}
 ]
