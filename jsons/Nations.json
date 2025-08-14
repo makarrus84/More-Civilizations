@@ -30,11 +30,9 @@
 		"outerColor": [245, 245, 245],
 		"innerColor": [61, 99, 196],
 		"unique": "The Land of a Thousand Lakes",
-		"uniques": ["[+1 Culture] [in all cities] <in [Lakes] tiles>", 
-		"[+1 Science] [in all cities] <in [Lakes] tiles> <starting from the [Industrial era]>"],
 		"cities": ["Helsinki","Tampere","Espoo","Vantaa","Oulu","Turku","Jyvaskyla","Kuopio","Lahti",
 			"Pori","Kouvola","Joensuu","Lappeenranta","Vaasa","Hameenlinna","Seinyajoki","Rovaniemi",
 			"Mikkeli","Porvoo","Salo"],
-		 "spyNames": ["Aarne", "Antti", "Kaarlo", "Margareeta", "Raimo", "Olivia", "Heimo", "Mikhail", "Kristiina", "Linnea"]
+		 "spyNames": ["Aarne", "Antti", "Kaarlo", "Margareeta", "Raimo", "Olivia", "Heimo", "Mikhail", "Kristiina", "Linnea"],
 	}
 ]
