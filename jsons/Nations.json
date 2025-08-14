@@ -3,7 +3,7 @@
 		"name": "Finland",
 		"leaderName": "Mannerheim",
 		"adjective": ["Finnish"],
-		"startBias": ["Lake"],
+		"startBias": ["Lakes"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Emil Mannerheim, you have earned the role of leader of Finland! Our country has thousands of lakes, a unique culture, and a people.",
@@ -30,8 +30,8 @@
 		"outerColor": [245, 245, 245],
 		"innerColor": [61, 99, 196],
 		"unique": "The Land of a Thousand Lakes",
-		"uniques": ["[+1 Culture] [in all cities] <in [Lake] tiles>", 
-		"[+1 Science] [in all cities] <in [Lake] tiles> <starting from the [Industrial era]>",
+		"uniques": ["[+1 Culture] [in all cities] <in [Lakes] tiles>", 
+		"[+1 Science] [in all cities] <in [Lakes] tiles> <starting from the [Industrial era]>",
 		"[+1] Movement <for [Military] units> <in [Snow] tiles>"]
 		"cities": ["Helsinki","Tampere","Espoo","Vantaa","Oulu","Turku","Jyvaskyla","Kuopio","Lahti",
 			"Pori","Kouvola","Joensuu","Lappeenranta","Vaasa","Hameenlinna","Seinyajoki","Rovaniemi",
