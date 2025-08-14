@@ -32,9 +32,10 @@
 		"unique": "The Land of a Thousand Lakes",
 		"uniques": ["[+1 Culture] [in all cities] <in [Lake] tiles>", 
 		"[+1 Science] [in all cities] <in [Lake] tiles> <starting from the [Industrial era]>",
-		"[+1] Movement" <in [Snow] tiles>,]
+		"[+1] Movement <for [Military] units> <in [Snow] tiles>",]
 		"cities": ["Helsinki","Tampere","Espoo","Vantaa","Oulu","Turku","Jyvaskyla","Kuopio","Lahti",
 			"Pori","Kouvola","Joensuu","Lappeenranta","Vaasa","Hameenlinna","Seinyajoki","Rovaniemi",
 			"Mikkeli","Porvoo","Salo",]
+		 "spyNames": ["Aarne", "Antti", "Kaarlo", "Margareeta", "Raimo", "Olivia", "Heimo", "Mikhail", "Kristiina", "Linnea"]
 	}
 ]
