@@ -1,38 +1,40 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Finland",
+		"leaderName": "Mannerheim",
+		"adjective": ["Finnish"],
+		"startBias": ["Lake"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Emil Mannerheim, you have earned the role of leader of Finland! Our country has thousands of lakes, a unique culture, and a people.",
+		"startIntroPart2": "After gaining independence in the bloody year 18, we have earned full freedom of action. We are ready to take our place on the international stage!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "You are a threat to our existence! Prepare for the worst!",
+		"attacked": "Have you decided to pass through our lands? Are you sure about that?",
+		"defeated": "We probably didn't deserve our sovereignty.",
+		"introduction": "Have we found someone?",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Hei!",
+		"neutralLetsHearIt": "We are ready to listen to your suggestion.",
+		"neutralNo": "I'm sorry, but we refuse.",
+		"neutralYes": "Pretty good!",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "No hei.",
+		"hateLetsHearIt": "We are ready to listen to your suggestion.",
+		"hateNo": "Don't suggest such nonsense again!",
+		"hateYes": "Okay, it might be beneficial.",
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Let's make peace...",
+		"tradeRequest": "So let's make a deal!",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [245, 245, 245],
+		"innerColor": [61, 99, 196],
+		"unique": "The Land of a Thousand Lakes",
+		"uniques": ["[+1 Culture] [in all cities] <in [Lake] tiles>", 
+		"[+1 Science] [in all cities] <in [Lake] tiles> <starting from the [Industrial era]>",
+		"[+1] Movement" <in [Snow] tiles>,]
+		"cities": ["Helsinki","Tampere","Espoo","Vantaa","Oulu","Turku","Jyvaskyla","Kuopio","Lahti",
+			"Pori","Kouvola","Joensuu","Lappeenranta","Vaasa","Hameenlinna","Seinyajoki","Rovaniemi",
+			"Mikkeli","Porvoo","Salo",]
 	}
 ]
