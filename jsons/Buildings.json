@@ -18,7 +18,7 @@
 		"cost": 100,
 		"happiness": 1,
 		"food": 1,
-		"uniques": ["40% of food is carried over after a new citizen is born", "Consumes [1] [Stone]"],
+		"uniques": ["Consumes [1] [Stone]"],
 		"requiredTech": "Construction"
 	}
 ]
