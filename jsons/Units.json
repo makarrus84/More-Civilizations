@@ -10,7 +10,7 @@
 		"range": 2,
 		"cost": 150,
 		"requiredTech": "Rifling",
-		"uniques": ["Unbuildable"],
+		"uniques": ["[1] additional attacks per turn"],
 		"attackSound": "shot"
 	}
 ]
